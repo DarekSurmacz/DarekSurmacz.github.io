@@ -2,7 +2,7 @@
 
 $(document).ready(function() {
   const apiRoot = 'https://kodilla-tasks-6.herokuapp.com/v1/tasks';
-  const trelloApiRoot = 'https://trello.com/b/3q25PzZs/kodilla-application';
+  const trelloApiRoot = 'https://kodilla-tasks-6.herokuapp.com/v1/trello';
   const datatableRowTemplate = $('[data-datatable-row-template]').children()[0];
   const $tasksContainer = $('[data-tasks-container]');
 
