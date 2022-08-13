@@ -1,5 +1,3 @@
-'https://kodilla-tasks-6.herokuapp.com/v1/tasks';
-
 $(document).ready(function() {
   const apiRoot = 'https://kodilla-tasks-6.herokuapp.com/v1/tasks';
   const trelloApiRoot = 'https://kodilla-tasks-6.herokuapp.com/v1/trello';
